@@ -1,3 +1,3 @@
-greething = "hello world"
+greething = "Hello world"
 
-print greething 
+print (greeting) 
