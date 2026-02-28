@@ -1,0 +1,3 @@
+life = "NeverGiveUp"
+
+print (life)
